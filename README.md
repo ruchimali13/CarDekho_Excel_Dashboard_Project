@@ -9,11 +9,11 @@ Understand fuel type–wise price variations
 Study the relationship between vehicle age and selling price
 Identify brand-wise usage patterns using km driven
 ## 📌 Key KPIs
-🏷 Brands Analysed: 31
-💰 Total Sales Amount: 1,194.31 Cr
-📦 Total Sales Count: 15,411
-⛽ Average Mileage: 19.7 km/l
-💵 Total Value Analysed: 11.94 Billion
+- 🏷 Brands Analysed: 31
+- 💰 Total Sales Amount: 1,194.31 Cr
+- 📦 Total Sales Count: 15,411
+- ⛽ Average Mileage: 19.7 km/l
+- 💵 Total Value Analysed: 11.94 Billion
 ## 📈 Dashboard Insights
 🔹 Vehicle Age vs Average Selling Price
 Newer vehicles command significantly higher prices
@@ -57,6 +57,6 @@ The dataset consists of used car sales data with the following attributes:
 - Seats	
 - Selling_price
 <img width="908" height="17" alt="image" src="https://github.com/user-attachments/assets/dfa73451-8a7f-4aa9-9a8a-4ef4b9cb212c" />
-🏁 Conclusion
+## 🏁 Conclusion
 This project showcases how Microsoft Excel can be leveraged to build advanced, interactive dashboards for real-world business analysis.
 It highlights strong analytical thinking, data visualization skills, and dashboard design best practices.
